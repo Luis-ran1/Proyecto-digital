@@ -1,0 +1,48 @@
+@media (max-width: 600px)
+{
+    .products
+    {
+        display: inherit;
+        height: auto;
+    }
+    .product
+    {
+        margin-top: auto;
+    }
+    .main_section
+    {
+        padding: 4%;
+    }
+    .beneficios
+    {
+        display: inherit;
+    }
+
+    .mentions
+    {
+        display: inherit;
+    }
+    footer
+    {
+        width: 100%;
+    }
+
+}
+
+@media (max-width: 900px){
+    .row
+    {
+        display: inherit;
+    }
+    .row .col-8 p
+    {
+        align-items: center;
+        margin: 10px;
+    }
+
+    .imagen
+    {
+        text-align: left;
+    }
+
+}
